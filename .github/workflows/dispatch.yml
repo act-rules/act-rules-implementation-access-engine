@@ -1,4 +1,4 @@
-# Send a build trigger to `act-rules-web` repository, everytime master chhanges
+# Send a build trigger to `act-rules-web` repository, everytime master changes
 name: dispatch
 
 on:
